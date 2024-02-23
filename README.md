@@ -69,7 +69,9 @@ With the development server running, access your application through the browser
 ## Upcoming Enhancements
 
 1. Implementing personalized recommendation features utilizing users' search histories for a more tailored experience.
-2. Deploying the web application to a public domain for broader accessibility.
+2. Add a mocking user feature with a new interface.
+3. Add a recommendation feature based on mocked user visits and ratings.
+4. Deploying the web application to a public domain for broader accessibility.
 
 ## Additional Information and Resources
 
